@@ -2,7 +2,7 @@
 
 In this Data Science Project 
 
-I have first built a model using sklearn and linear regression using Banglore Home Prices dataset from kaggle.com. 
+I have first built a model using sklearn and linear regression using Banglore Home Prices dataset from kaggle. 
 
 In second step I have written a python flask server that uses the saved model to serve http requests. 
 
