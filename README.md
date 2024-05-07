@@ -1,10 +1,12 @@
-# This data science project builds a real estate price prediction website. 
+# Real Estate Price Prediction Website. 
 
-# I have first built a model using sklearn and linear regression using Banglore Home Prices dataset from kaggle.com. 
+In this Data Science Project 
 
-# In second step I have written a python flask server that uses the saved model to serve http requests. 
+I have first built a model using sklearn and linear regression using Banglore Home Prices dataset from kaggle.com. 
 
-# Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
+In second step I have written a python flask server that uses the saved model to serve http requests. 
+
+Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
 
 # Data Science concepts used:
  1. data load and cleaning
